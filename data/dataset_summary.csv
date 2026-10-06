@@ -1,0 +1,7 @@
+temperature_K,accepted_configurations,train,validation,test
+300,126,100,12,14
+350,192,153,19,20
+400,188,150,18,20
+450,189,151,18,20
+500,180,144,18,18
+Total,875,698,85,92
