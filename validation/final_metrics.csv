@@ -1,0 +1,7 @@
+stage,split,energy_rmse_meV_per_atom,force_rmse_meV_per_A,relative_force_rmse_percent
+stage_one,train,1.3,37.6,2.81
+stage_one,validation,1.4,39.5,2.96
+stage_one,test,1.3,38.8,2.88
+stage_two_swa,train,0.6,31.7,2.37
+stage_two_swa,validation,0.6,33.9,2.54
+stage_two_swa,test,0.6,33.3,2.47
