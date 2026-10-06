@@ -1,0 +1,30 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# HPC / MACE generated files
+checkpoints/
+logs/
+results/
+*.pt
+*.model
+*.compiled.model
+*.out
+slurm-*.out
+
+# Large datasets / trajectories
+*.lammpstrj
+*.dump
+train.xyz
+val.xyz
+test.xyz
+pseudopotential/
+tmp/
+
+# Editors / OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
